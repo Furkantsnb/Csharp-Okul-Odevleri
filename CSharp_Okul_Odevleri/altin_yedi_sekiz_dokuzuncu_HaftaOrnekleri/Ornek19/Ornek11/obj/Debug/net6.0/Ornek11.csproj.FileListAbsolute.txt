@@ -1,0 +1,15 @@
+C:\Users\furka\Desktop\c# projelerim\Ornek11\Ornek11\bin\Debug\net6.0\Ornek11.exe
+C:\Users\furka\Desktop\c# projelerim\Ornek11\Ornek11\bin\Debug\net6.0\Ornek11.deps.json
+C:\Users\furka\Desktop\c# projelerim\Ornek11\Ornek11\bin\Debug\net6.0\Ornek11.runtimeconfig.json
+C:\Users\furka\Desktop\c# projelerim\Ornek11\Ornek11\bin\Debug\net6.0\Ornek11.dll
+C:\Users\furka\Desktop\c# projelerim\Ornek11\Ornek11\bin\Debug\net6.0\Ornek11.pdb
+C:\Users\furka\Desktop\c# projelerim\Ornek11\Ornek11\obj\Debug\net6.0\Ornek11.csproj.AssemblyReference.cache
+C:\Users\furka\Desktop\c# projelerim\Ornek11\Ornek11\obj\Debug\net6.0\Ornek11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\Desktop\c# projelerim\Ornek11\Ornek11\obj\Debug\net6.0\Ornek11.AssemblyInfoInputs.cache
+C:\Users\furka\Desktop\c# projelerim\Ornek11\Ornek11\obj\Debug\net6.0\Ornek11.AssemblyInfo.cs
+C:\Users\furka\Desktop\c# projelerim\Ornek11\Ornek11\obj\Debug\net6.0\Ornek11.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\c# projelerim\Ornek11\Ornek11\obj\Debug\net6.0\Ornek11.dll
+C:\Users\furka\Desktop\c# projelerim\Ornek11\Ornek11\obj\Debug\net6.0\refint\Ornek11.dll
+C:\Users\furka\Desktop\c# projelerim\Ornek11\Ornek11\obj\Debug\net6.0\Ornek11.pdb
+C:\Users\furka\Desktop\c# projelerim\Ornek11\Ornek11\obj\Debug\net6.0\Ornek11.genruntimeconfig.cache
+C:\Users\furka\Desktop\c# projelerim\Ornek11\Ornek11\obj\Debug\net6.0\ref\Ornek11.dll

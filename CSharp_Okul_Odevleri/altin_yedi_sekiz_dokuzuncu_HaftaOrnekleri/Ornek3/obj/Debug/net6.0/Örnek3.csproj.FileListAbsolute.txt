@@ -1,0 +1,15 @@
+C:\Users\furka\Desktop\c# projelerim\AltinciHaftaÖrnekleri\Örnek3\bin\Debug\net6.0\Örnek3.exe
+C:\Users\furka\Desktop\c# projelerim\AltinciHaftaÖrnekleri\Örnek3\bin\Debug\net6.0\Örnek3.deps.json
+C:\Users\furka\Desktop\c# projelerim\AltinciHaftaÖrnekleri\Örnek3\bin\Debug\net6.0\Örnek3.runtimeconfig.json
+C:\Users\furka\Desktop\c# projelerim\AltinciHaftaÖrnekleri\Örnek3\bin\Debug\net6.0\Örnek3.dll
+C:\Users\furka\Desktop\c# projelerim\AltinciHaftaÖrnekleri\Örnek3\bin\Debug\net6.0\Örnek3.pdb
+C:\Users\furka\Desktop\c# projelerim\AltinciHaftaÖrnekleri\Örnek3\obj\Debug\net6.0\Örnek3.csproj.AssemblyReference.cache
+C:\Users\furka\Desktop\c# projelerim\AltinciHaftaÖrnekleri\Örnek3\obj\Debug\net6.0\Örnek3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\Desktop\c# projelerim\AltinciHaftaÖrnekleri\Örnek3\obj\Debug\net6.0\Örnek3.AssemblyInfoInputs.cache
+C:\Users\furka\Desktop\c# projelerim\AltinciHaftaÖrnekleri\Örnek3\obj\Debug\net6.0\Örnek3.AssemblyInfo.cs
+C:\Users\furka\Desktop\c# projelerim\AltinciHaftaÖrnekleri\Örnek3\obj\Debug\net6.0\Örnek3.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\c# projelerim\AltinciHaftaÖrnekleri\Örnek3\obj\Debug\net6.0\Örnek3.dll
+C:\Users\furka\Desktop\c# projelerim\AltinciHaftaÖrnekleri\Örnek3\obj\Debug\net6.0\refint\Örnek3.dll
+C:\Users\furka\Desktop\c# projelerim\AltinciHaftaÖrnekleri\Örnek3\obj\Debug\net6.0\Örnek3.pdb
+C:\Users\furka\Desktop\c# projelerim\AltinciHaftaÖrnekleri\Örnek3\obj\Debug\net6.0\Örnek3.genruntimeconfig.cache
+C:\Users\furka\Desktop\c# projelerim\AltinciHaftaÖrnekleri\Örnek3\obj\Debug\net6.0\ref\Örnek3.dll

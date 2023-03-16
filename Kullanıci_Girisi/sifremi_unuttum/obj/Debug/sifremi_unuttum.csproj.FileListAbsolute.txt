@@ -1,0 +1,11 @@
+C:\Users\furka\Desktop\c# projelerim\sifremi_unuttum\sifremi_unuttum\bin\Debug\sifremi_unuttum.exe.config
+C:\Users\furka\Desktop\c# projelerim\sifremi_unuttum\sifremi_unuttum\bin\Debug\sifremi_unuttum.exe
+C:\Users\furka\Desktop\c# projelerim\sifremi_unuttum\sifremi_unuttum\bin\Debug\sifremi_unuttum.pdb
+C:\Users\furka\Desktop\c# projelerim\sifremi_unuttum\sifremi_unuttum\obj\Debug\sifremi_unuttum.csproj.AssemblyReference.cache
+C:\Users\furka\Desktop\c# projelerim\sifremi_unuttum\sifremi_unuttum\obj\Debug\sifremi_unuttum.csproj.SuggestedBindingRedirects.cache
+C:\Users\furka\Desktop\c# projelerim\sifremi_unuttum\sifremi_unuttum\obj\Debug\sifremi_unuttum.frmKullanıcı.resources
+C:\Users\furka\Desktop\c# projelerim\sifremi_unuttum\sifremi_unuttum\obj\Debug\sifremi_unuttum.Properties.Resources.resources
+C:\Users\furka\Desktop\c# projelerim\sifremi_unuttum\sifremi_unuttum\obj\Debug\sifremi_unuttum.csproj.GenerateResource.cache
+C:\Users\furka\Desktop\c# projelerim\sifremi_unuttum\sifremi_unuttum\obj\Debug\sifremi_unuttum.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\c# projelerim\sifremi_unuttum\sifremi_unuttum\obj\Debug\sifremi_unuttum.exe
+C:\Users\furka\Desktop\c# projelerim\sifremi_unuttum\sifremi_unuttum\obj\Debug\sifremi_unuttum.pdb

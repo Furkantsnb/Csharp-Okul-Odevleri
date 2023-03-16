@@ -1,0 +1,15 @@
+C:\Users\furka\Desktop\c# projelerim\yedi_sekiz_dokuzuncu_HaftaOrnekleri\Ornek4\bin\Debug\net6.0\Ornek4.exe
+C:\Users\furka\Desktop\c# projelerim\yedi_sekiz_dokuzuncu_HaftaOrnekleri\Ornek4\bin\Debug\net6.0\Ornek4.deps.json
+C:\Users\furka\Desktop\c# projelerim\yedi_sekiz_dokuzuncu_HaftaOrnekleri\Ornek4\bin\Debug\net6.0\Ornek4.runtimeconfig.json
+C:\Users\furka\Desktop\c# projelerim\yedi_sekiz_dokuzuncu_HaftaOrnekleri\Ornek4\bin\Debug\net6.0\Ornek4.dll
+C:\Users\furka\Desktop\c# projelerim\yedi_sekiz_dokuzuncu_HaftaOrnekleri\Ornek4\bin\Debug\net6.0\Ornek4.pdb
+C:\Users\furka\Desktop\c# projelerim\yedi_sekiz_dokuzuncu_HaftaOrnekleri\Ornek4\obj\Debug\net6.0\Ornek4.csproj.AssemblyReference.cache
+C:\Users\furka\Desktop\c# projelerim\yedi_sekiz_dokuzuncu_HaftaOrnekleri\Ornek4\obj\Debug\net6.0\Ornek4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\Desktop\c# projelerim\yedi_sekiz_dokuzuncu_HaftaOrnekleri\Ornek4\obj\Debug\net6.0\Ornek4.AssemblyInfoInputs.cache
+C:\Users\furka\Desktop\c# projelerim\yedi_sekiz_dokuzuncu_HaftaOrnekleri\Ornek4\obj\Debug\net6.0\Ornek4.AssemblyInfo.cs
+C:\Users\furka\Desktop\c# projelerim\yedi_sekiz_dokuzuncu_HaftaOrnekleri\Ornek4\obj\Debug\net6.0\Ornek4.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\c# projelerim\yedi_sekiz_dokuzuncu_HaftaOrnekleri\Ornek4\obj\Debug\net6.0\Ornek4.dll
+C:\Users\furka\Desktop\c# projelerim\yedi_sekiz_dokuzuncu_HaftaOrnekleri\Ornek4\obj\Debug\net6.0\refint\Ornek4.dll
+C:\Users\furka\Desktop\c# projelerim\yedi_sekiz_dokuzuncu_HaftaOrnekleri\Ornek4\obj\Debug\net6.0\Ornek4.pdb
+C:\Users\furka\Desktop\c# projelerim\yedi_sekiz_dokuzuncu_HaftaOrnekleri\Ornek4\obj\Debug\net6.0\Ornek4.genruntimeconfig.cache
+C:\Users\furka\Desktop\c# projelerim\yedi_sekiz_dokuzuncu_HaftaOrnekleri\Ornek4\obj\Debug\net6.0\ref\Ornek4.dll

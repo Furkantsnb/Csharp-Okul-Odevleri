@@ -1,0 +1,15 @@
+C:\Users\furka\Desktop\c# projelerim\dorduncuHafta\dorduncuHafta\bin\Debug\net6.0\dorduncuHafta.exe
+C:\Users\furka\Desktop\c# projelerim\dorduncuHafta\dorduncuHafta\bin\Debug\net6.0\dorduncuHafta.deps.json
+C:\Users\furka\Desktop\c# projelerim\dorduncuHafta\dorduncuHafta\bin\Debug\net6.0\dorduncuHafta.runtimeconfig.json
+C:\Users\furka\Desktop\c# projelerim\dorduncuHafta\dorduncuHafta\bin\Debug\net6.0\dorduncuHafta.dll
+C:\Users\furka\Desktop\c# projelerim\dorduncuHafta\dorduncuHafta\bin\Debug\net6.0\dorduncuHafta.pdb
+C:\Users\furka\Desktop\c# projelerim\dorduncuHafta\dorduncuHafta\obj\Debug\net6.0\dorduncuHafta.csproj.AssemblyReference.cache
+C:\Users\furka\Desktop\c# projelerim\dorduncuHafta\dorduncuHafta\obj\Debug\net6.0\dorduncuHafta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\Desktop\c# projelerim\dorduncuHafta\dorduncuHafta\obj\Debug\net6.0\dorduncuHafta.AssemblyInfoInputs.cache
+C:\Users\furka\Desktop\c# projelerim\dorduncuHafta\dorduncuHafta\obj\Debug\net6.0\dorduncuHafta.AssemblyInfo.cs
+C:\Users\furka\Desktop\c# projelerim\dorduncuHafta\dorduncuHafta\obj\Debug\net6.0\dorduncuHafta.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\c# projelerim\dorduncuHafta\dorduncuHafta\obj\Debug\net6.0\dorduncuHafta.dll
+C:\Users\furka\Desktop\c# projelerim\dorduncuHafta\dorduncuHafta\obj\Debug\net6.0\refint\dorduncuHafta.dll
+C:\Users\furka\Desktop\c# projelerim\dorduncuHafta\dorduncuHafta\obj\Debug\net6.0\dorduncuHafta.pdb
+C:\Users\furka\Desktop\c# projelerim\dorduncuHafta\dorduncuHafta\obj\Debug\net6.0\dorduncuHafta.genruntimeconfig.cache
+C:\Users\furka\Desktop\c# projelerim\dorduncuHafta\dorduncuHafta\obj\Debug\net6.0\ref\dorduncuHafta.dll

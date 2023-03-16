@@ -1,0 +1,15 @@
+C:\Users\furka\Desktop\c# projelerim\AltinciHaftaÖrnekleri\AltinciHaftaÖrnekleri\bin\Debug\net6.0\AltinciHaftaÖrnekleri.exe
+C:\Users\furka\Desktop\c# projelerim\AltinciHaftaÖrnekleri\AltinciHaftaÖrnekleri\bin\Debug\net6.0\AltinciHaftaÖrnekleri.deps.json
+C:\Users\furka\Desktop\c# projelerim\AltinciHaftaÖrnekleri\AltinciHaftaÖrnekleri\bin\Debug\net6.0\AltinciHaftaÖrnekleri.runtimeconfig.json
+C:\Users\furka\Desktop\c# projelerim\AltinciHaftaÖrnekleri\AltinciHaftaÖrnekleri\bin\Debug\net6.0\AltinciHaftaÖrnekleri.dll
+C:\Users\furka\Desktop\c# projelerim\AltinciHaftaÖrnekleri\AltinciHaftaÖrnekleri\bin\Debug\net6.0\AltinciHaftaÖrnekleri.pdb
+C:\Users\furka\Desktop\c# projelerim\AltinciHaftaÖrnekleri\AltinciHaftaÖrnekleri\obj\Debug\net6.0\AltinciHaftaÖrnekleri.csproj.AssemblyReference.cache
+C:\Users\furka\Desktop\c# projelerim\AltinciHaftaÖrnekleri\AltinciHaftaÖrnekleri\obj\Debug\net6.0\AltinciHaftaÖrnekleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\Desktop\c# projelerim\AltinciHaftaÖrnekleri\AltinciHaftaÖrnekleri\obj\Debug\net6.0\AltinciHaftaÖrnekleri.AssemblyInfoInputs.cache
+C:\Users\furka\Desktop\c# projelerim\AltinciHaftaÖrnekleri\AltinciHaftaÖrnekleri\obj\Debug\net6.0\AltinciHaftaÖrnekleri.AssemblyInfo.cs
+C:\Users\furka\Desktop\c# projelerim\AltinciHaftaÖrnekleri\AltinciHaftaÖrnekleri\obj\Debug\net6.0\AltinciHaftaÖrnekleri.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\c# projelerim\AltinciHaftaÖrnekleri\AltinciHaftaÖrnekleri\obj\Debug\net6.0\AltinciHaftaÖrnekleri.dll
+C:\Users\furka\Desktop\c# projelerim\AltinciHaftaÖrnekleri\AltinciHaftaÖrnekleri\obj\Debug\net6.0\refint\AltinciHaftaÖrnekleri.dll
+C:\Users\furka\Desktop\c# projelerim\AltinciHaftaÖrnekleri\AltinciHaftaÖrnekleri\obj\Debug\net6.0\AltinciHaftaÖrnekleri.pdb
+C:\Users\furka\Desktop\c# projelerim\AltinciHaftaÖrnekleri\AltinciHaftaÖrnekleri\obj\Debug\net6.0\AltinciHaftaÖrnekleri.genruntimeconfig.cache
+C:\Users\furka\Desktop\c# projelerim\AltinciHaftaÖrnekleri\AltinciHaftaÖrnekleri\obj\Debug\net6.0\ref\AltinciHaftaÖrnekleri.dll

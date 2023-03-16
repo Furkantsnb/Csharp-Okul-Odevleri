@@ -1,0 +1,15 @@
+C:\Users\furka\Desktop\c# projelerim\besinciHafta\besinciHafta\bin\Debug\net6.0\besinciHafta.exe
+C:\Users\furka\Desktop\c# projelerim\besinciHafta\besinciHafta\bin\Debug\net6.0\besinciHafta.deps.json
+C:\Users\furka\Desktop\c# projelerim\besinciHafta\besinciHafta\bin\Debug\net6.0\besinciHafta.runtimeconfig.json
+C:\Users\furka\Desktop\c# projelerim\besinciHafta\besinciHafta\bin\Debug\net6.0\besinciHafta.dll
+C:\Users\furka\Desktop\c# projelerim\besinciHafta\besinciHafta\bin\Debug\net6.0\besinciHafta.pdb
+C:\Users\furka\Desktop\c# projelerim\besinciHafta\besinciHafta\obj\Debug\net6.0\besinciHafta.csproj.AssemblyReference.cache
+C:\Users\furka\Desktop\c# projelerim\besinciHafta\besinciHafta\obj\Debug\net6.0\besinciHafta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\Desktop\c# projelerim\besinciHafta\besinciHafta\obj\Debug\net6.0\besinciHafta.AssemblyInfoInputs.cache
+C:\Users\furka\Desktop\c# projelerim\besinciHafta\besinciHafta\obj\Debug\net6.0\besinciHafta.AssemblyInfo.cs
+C:\Users\furka\Desktop\c# projelerim\besinciHafta\besinciHafta\obj\Debug\net6.0\besinciHafta.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\c# projelerim\besinciHafta\besinciHafta\obj\Debug\net6.0\besinciHafta.dll
+C:\Users\furka\Desktop\c# projelerim\besinciHafta\besinciHafta\obj\Debug\net6.0\refint\besinciHafta.dll
+C:\Users\furka\Desktop\c# projelerim\besinciHafta\besinciHafta\obj\Debug\net6.0\besinciHafta.pdb
+C:\Users\furka\Desktop\c# projelerim\besinciHafta\besinciHafta\obj\Debug\net6.0\besinciHafta.genruntimeconfig.cache
+C:\Users\furka\Desktop\c# projelerim\besinciHafta\besinciHafta\obj\Debug\net6.0\ref\besinciHafta.dll

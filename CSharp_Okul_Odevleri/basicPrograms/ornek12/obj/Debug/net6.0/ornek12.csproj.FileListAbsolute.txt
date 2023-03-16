@@ -1,0 +1,15 @@
+C:\Users\furka\Desktop\c# projelerim\basicPrograms\ornek12\bin\Debug\net6.0\ornek12.exe
+C:\Users\furka\Desktop\c# projelerim\basicPrograms\ornek12\bin\Debug\net6.0\ornek12.deps.json
+C:\Users\furka\Desktop\c# projelerim\basicPrograms\ornek12\bin\Debug\net6.0\ornek12.runtimeconfig.json
+C:\Users\furka\Desktop\c# projelerim\basicPrograms\ornek12\bin\Debug\net6.0\ornek12.dll
+C:\Users\furka\Desktop\c# projelerim\basicPrograms\ornek12\bin\Debug\net6.0\ornek12.pdb
+C:\Users\furka\Desktop\c# projelerim\basicPrograms\ornek12\obj\Debug\net6.0\ornek12.csproj.AssemblyReference.cache
+C:\Users\furka\Desktop\c# projelerim\basicPrograms\ornek12\obj\Debug\net6.0\ornek12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\Desktop\c# projelerim\basicPrograms\ornek12\obj\Debug\net6.0\ornek12.AssemblyInfoInputs.cache
+C:\Users\furka\Desktop\c# projelerim\basicPrograms\ornek12\obj\Debug\net6.0\ornek12.AssemblyInfo.cs
+C:\Users\furka\Desktop\c# projelerim\basicPrograms\ornek12\obj\Debug\net6.0\ornek12.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\c# projelerim\basicPrograms\ornek12\obj\Debug\net6.0\ornek12.dll
+C:\Users\furka\Desktop\c# projelerim\basicPrograms\ornek12\obj\Debug\net6.0\refint\ornek12.dll
+C:\Users\furka\Desktop\c# projelerim\basicPrograms\ornek12\obj\Debug\net6.0\ornek12.pdb
+C:\Users\furka\Desktop\c# projelerim\basicPrograms\ornek12\obj\Debug\net6.0\ornek12.genruntimeconfig.cache
+C:\Users\furka\Desktop\c# projelerim\basicPrograms\ornek12\obj\Debug\net6.0\ref\ornek12.dll

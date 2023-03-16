@@ -1,0 +1,15 @@
+C:\Users\furka\Desktop\c# projelerim\AlgoritmaSorulari\AlgoritmaSorulari\bin\Debug\net6.0\AlgoritmaSorulari.exe
+C:\Users\furka\Desktop\c# projelerim\AlgoritmaSorulari\AlgoritmaSorulari\bin\Debug\net6.0\AlgoritmaSorulari.deps.json
+C:\Users\furka\Desktop\c# projelerim\AlgoritmaSorulari\AlgoritmaSorulari\bin\Debug\net6.0\AlgoritmaSorulari.runtimeconfig.json
+C:\Users\furka\Desktop\c# projelerim\AlgoritmaSorulari\AlgoritmaSorulari\bin\Debug\net6.0\AlgoritmaSorulari.dll
+C:\Users\furka\Desktop\c# projelerim\AlgoritmaSorulari\AlgoritmaSorulari\bin\Debug\net6.0\AlgoritmaSorulari.pdb
+C:\Users\furka\Desktop\c# projelerim\AlgoritmaSorulari\AlgoritmaSorulari\obj\Debug\net6.0\AlgoritmaSorulari.csproj.AssemblyReference.cache
+C:\Users\furka\Desktop\c# projelerim\AlgoritmaSorulari\AlgoritmaSorulari\obj\Debug\net6.0\AlgoritmaSorulari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\Desktop\c# projelerim\AlgoritmaSorulari\AlgoritmaSorulari\obj\Debug\net6.0\AlgoritmaSorulari.AssemblyInfoInputs.cache
+C:\Users\furka\Desktop\c# projelerim\AlgoritmaSorulari\AlgoritmaSorulari\obj\Debug\net6.0\AlgoritmaSorulari.AssemblyInfo.cs
+C:\Users\furka\Desktop\c# projelerim\AlgoritmaSorulari\AlgoritmaSorulari\obj\Debug\net6.0\AlgoritmaSorulari.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\c# projelerim\AlgoritmaSorulari\AlgoritmaSorulari\obj\Debug\net6.0\AlgoritmaSorulari.dll
+C:\Users\furka\Desktop\c# projelerim\AlgoritmaSorulari\AlgoritmaSorulari\obj\Debug\net6.0\refint\AlgoritmaSorulari.dll
+C:\Users\furka\Desktop\c# projelerim\AlgoritmaSorulari\AlgoritmaSorulari\obj\Debug\net6.0\AlgoritmaSorulari.pdb
+C:\Users\furka\Desktop\c# projelerim\AlgoritmaSorulari\AlgoritmaSorulari\obj\Debug\net6.0\AlgoritmaSorulari.genruntimeconfig.cache
+C:\Users\furka\Desktop\c# projelerim\AlgoritmaSorulari\AlgoritmaSorulari\obj\Debug\net6.0\ref\AlgoritmaSorulari.dll

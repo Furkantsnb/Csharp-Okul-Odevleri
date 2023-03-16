@@ -1,0 +1,15 @@
+C:\Users\furka\Desktop\c# projelerim\basicPrograms\basicPrograms\bin\Debug\net6.0\basicPrograms.exe
+C:\Users\furka\Desktop\c# projelerim\basicPrograms\basicPrograms\bin\Debug\net6.0\basicPrograms.deps.json
+C:\Users\furka\Desktop\c# projelerim\basicPrograms\basicPrograms\bin\Debug\net6.0\basicPrograms.runtimeconfig.json
+C:\Users\furka\Desktop\c# projelerim\basicPrograms\basicPrograms\bin\Debug\net6.0\basicPrograms.dll
+C:\Users\furka\Desktop\c# projelerim\basicPrograms\basicPrograms\bin\Debug\net6.0\basicPrograms.pdb
+C:\Users\furka\Desktop\c# projelerim\basicPrograms\basicPrograms\obj\Debug\net6.0\basicPrograms.csproj.AssemblyReference.cache
+C:\Users\furka\Desktop\c# projelerim\basicPrograms\basicPrograms\obj\Debug\net6.0\basicPrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\Desktop\c# projelerim\basicPrograms\basicPrograms\obj\Debug\net6.0\basicPrograms.AssemblyInfoInputs.cache
+C:\Users\furka\Desktop\c# projelerim\basicPrograms\basicPrograms\obj\Debug\net6.0\basicPrograms.AssemblyInfo.cs
+C:\Users\furka\Desktop\c# projelerim\basicPrograms\basicPrograms\obj\Debug\net6.0\basicPrograms.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\c# projelerim\basicPrograms\basicPrograms\obj\Debug\net6.0\basicPrograms.dll
+C:\Users\furka\Desktop\c# projelerim\basicPrograms\basicPrograms\obj\Debug\net6.0\refint\basicPrograms.dll
+C:\Users\furka\Desktop\c# projelerim\basicPrograms\basicPrograms\obj\Debug\net6.0\basicPrograms.pdb
+C:\Users\furka\Desktop\c# projelerim\basicPrograms\basicPrograms\obj\Debug\net6.0\basicPrograms.genruntimeconfig.cache
+C:\Users\furka\Desktop\c# projelerim\basicPrograms\basicPrograms\obj\Debug\net6.0\ref\basicPrograms.dll
